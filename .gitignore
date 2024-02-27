@@ -1,0 +1,15 @@
+*.exe
+/Build/
+/Saved/
+/Intermediate/
+/.vs/
+/Binaries/
+/DerivedDataCache/
+/Plugins/GenericGraph/Binaries/
+/Plugins/VertexAnimationManager/Intermediate/
+/Plugins/GenericGraph/Intermediate/
+*.sln
+*.xml
+.idea/.idea.Neuro/.idea/workspace.xml
+*.log
+/Logs/
